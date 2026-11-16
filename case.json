@@ -1,0 +1,53 @@
+[
+  {
+    "id": "D1", "title": "Overenskomst for sykkelverksteder 2024–2026",
+    "document_date": "2024-05-15", "kind": "agreement",
+    "passages": [
+      {"rule": "bicycle.skilled", "section": "3", "value": "212,00", "text": "§ 3 Minstelønn. Fagarbeider: kr 212,00 per time."},
+      {"rule": "bicycle.unskilled", "section": "3", "value": "196,50", "text": "Arbeidstaker uten fagbrev: kr 196,50 per time."},
+      {"rule": "bicycle.overtime", "section": "4", "value": "50/100 %", "text": "§ 4 Overtid. Overtid godtgjøres med 50 prosent tillegg, etter kl. 21 med 100 prosent."}
+    ]
+  },
+  {
+    "id": "D2", "title": "Protokoll fra mellomoppgjøret 2025, sykkelverksteder",
+    "document_date": "2025-04-10", "kind": "amendment",
+    "passages": [
+      {"rule": "bicycle.skilled", "section": "3", "value": "217,50", "text": "Partene er enige om at satsen for fagarbeider i § 3 økes fra kr 212,00 til kr 217,50 per time med virkning fra 1. april 2025."}
+    ]
+  },
+  {
+    "id": "D3", "title": "Protokoll fra hovedoppgjøret 2026, sykkelverksteder",
+    "document_date": "2026-06-12", "kind": "amendment",
+    "passages": [
+      {"rule": "bicycle.skilled", "section": "3", "value": "231,00", "text": "Overenskomsten fornyes for 2026–2028. Satsen for fagarbeider i § 3 økes fra kr 217,50 til kr 231,00 per time med virkning fra 1. mai 2026."}
+    ]
+  },
+  {
+    "id": "D4", "title": "Nettside: «Dette tjener du i sykkelbransjen»",
+    "document_date": null, "kind": "secondary",
+    "passages": [
+      {"rule": "bicycle.skilled", "section": null, "value": "212,00", "text": "Jobber du som fagarbeider på et sykkelverksted, har du krav på minst kr 212,00 i timen, ifølge overenskomsten."}
+    ]
+  },
+  {
+    "id": "D5", "title": "Overenskomst for båtpleie 2026–2028",
+    "document_date": "2026-05-20", "kind": "agreement",
+    "passages": [
+      {"rule": "boat.skilled", "section": "3", "value": "226,00", "text": "§ 3 Minstelønn. Fagarbeider: kr 226,00 per time."}
+    ]
+  },
+  {
+    "id": "D6", "title": "Personalhåndbok",
+    "document_date": "2023-01-10", "kind": "handbook",
+    "passages": [
+      {"rule": "handbook.leave", "section": "7.2", "value": "3 dager", "text": "7.2 Velferdspermisjon. Ansatte har rett til inntil 3 dager velferdspermisjon med lønn per år."}
+    ]
+  },
+  {
+    "id": "D7", "title": "Personalhåndbok",
+    "document_date": "2025-08-01", "kind": "handbook",
+    "passages": [
+      {"rule": "handbook.leave", "section": "7.2", "value": "5 dager", "text": "7.2 Velferdspermisjon. Ansatte har rett til inntil 5 dager velferdspermisjon med lønn per år. Denne versjonen erstatter håndboka fra januar 2023."}
+    ]
+  }
+]
